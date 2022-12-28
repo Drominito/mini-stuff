@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace FINALE
         static void Main(string[] args)
         {
             MainMenu();
-            global::System.Console.WriteLine("Hello World");
+            global::System.Console.WriteLine("Hello World"); //ABC
             Console.ReadKey();
 
         }
