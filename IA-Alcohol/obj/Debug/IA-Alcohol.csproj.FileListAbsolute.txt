@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\IA-Alcohol\obj\Debug\IA-Alcohol.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IA-Alcohol\obj\Debug\IA-Alcohol.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\IA-Alcohol\obj\Debug\IA-Alcohol.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IA-Alcohol\bin\Debug\IA-Alcohol.exe.config
+C:\Users\User\source\repos\IA-Alcohol\bin\Debug\IA-Alcohol.exe
+C:\Users\User\source\repos\IA-Alcohol\bin\Debug\IA-Alcohol.pdb
+C:\Users\User\source\repos\IA-Alcohol\bin\Debug\WaveMoves.exe
+C:\Users\User\source\repos\IA-Alcohol\bin\Debug\WaveMoves.pdb
+C:\Users\User\source\repos\IA-Alcohol\bin\Debug\WaveMoves.exe.config
+C:\Users\User\source\repos\IA-Alcohol\obj\Debug\IA-Alcohol.csproj.CopyComplete
+C:\Users\User\source\repos\IA-Alcohol\obj\Debug\IA-Alcohol.exe
+C:\Users\User\source\repos\IA-Alcohol\obj\Debug\IA-Alcohol.pdb
